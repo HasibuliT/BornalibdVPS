@@ -4,11 +4,11 @@
 #	DATE:				March 7, 2017
 #	SCRIPT:				ShellBot.sh
 #	VERSION:			6.4.0
-#	DEVELOPED BY:	                Juliano Santos [SHAMAN]
-#	PAGE:				http://www.shellscriptx.blogspot.com.br
-#	FANPAGE:			https://www.facebook.com/shellscriptx
-#	GITHUB:				https://github.com/shellscriptx
-# 	CONTACT:			shellscriptx@gmail.com
+#	DEVELOPED BY:	                Bornalibd.com
+#	PAGE:				Bornalibd.com
+#	FANPAGE:			https://www.facebook.com/BornalibdShop
+#	GITHUB:				https://github.com/HasibuliT
+# 	CONTACT:			info@bornalibd.com
 #
 #	DESCRIPTION:			ShellBot is an unofficial API designed to facilitate the creation of
 # 					bots on the TELEGRAM platform. Consisting of a collection of methods
