@@ -2348,7 +2348,7 @@ while :; do
                         --parse_mode html
                     ;;
                     # REMOVE REVENDEDOR
-                '🗑 REMOVE DEALER 🗑\n\nInform his username [Ex: @Dragon_vps_manager]:')
+                '🗑 REMOVE DEALER 🗑\n\nInform his username [Ex: @BornalibdBot]:')
                     echo -e "${message_text[$id]}" >$CAD_ARQ
                     _Var=$(sed -n '1 p' $CAD_ARQ | awk -F '@' {'print $2'})
                     [[ -z $_Var ]] && {
@@ -2438,7 +2438,7 @@ while :; do
                         --parse_mode html
                     # ALTERAR DATA
                     ;;
-                '📆 CHANGE RESALE DATE 📆\n\nInform his username [Ex: @Dragon_vps_manager]:')
+                '📆 CHANGE RESALE DATE 📆\n\nInform his username [Ex: @BornalibdBot]:')
                     verifica_acesso
                     [[ "$_erro" == '1' ]] && break
                     _VAR1=$(echo -e ${message_text[$id]} | awk -F '@' {'print $2'})
