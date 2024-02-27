@@ -1945,7 +1945,7 @@ while :; do
                         >$CAD_ARQ
                         break
                     }
-                    echo "Password: ${message_text[$id]}" >>$CAD_ARQ
+                    echo "Senha: ${message_text[$id]}" >>$CAD_ARQ
                     # Próximo campo.
                     ShellBot.sendMessage --chat_id ${message_from_id[$id]} \
                         --text 'Limite:' \
